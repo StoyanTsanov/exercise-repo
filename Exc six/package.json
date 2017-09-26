@@ -1,0 +1,9 @@
+{
+  "name": "exc-six",
+  "version": "0.0.0",
+  "description": "Exc six",
+  "main": "app.js",
+  "author": {
+    "name": "troll"
+  }
+}
